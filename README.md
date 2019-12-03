@@ -4,3 +4,10 @@
 
 ### Check our website https://aligredo.github.io/wubbalubbadubdub.github.io/
 ### Enjoy our brief presentation for our work https://www.canva.com/design/DADsx1vnMSI/kLMLtmfoDqMzhxQShq1_tA/view
+
+### Team Members
+- Engy Fawaz
+- Dina Hisham
+- Mohamed Maher
+- Wessam Ali
+- Ali Ahmed
